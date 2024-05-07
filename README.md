@@ -1,0 +1,8 @@
+# Olá, esse site fiz com a Alura no curso HTML e CSS:praticando HTML/CSS
+![image](https://github.com/erickqf/alura_plus/assets/148627777/183bb6bc-08ce-4d27-af68-9e21dcc4c304)
+
+## Link do Curso
+## https://www.alura.com.br/curso-online-html-css-praticando-html-css
+
+## Link do site
+## https://alura-plus-4f5wmgnn4-erick-queirozs-projects.vercel.app/
